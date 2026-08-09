@@ -2,6 +2,9 @@
 
 ![Shop Profile Screenshot](assets/Screenshot.png)
 
+![Shop Profile Mobile view](assets/mobile1.png)
+![Shop Profile Mobile view](assets/mobile2.png)
+
 A single Flutter screen - **Shop Profile Screen**
 
 This is a UI-only implementation. There is no backend, API, Firebase,
