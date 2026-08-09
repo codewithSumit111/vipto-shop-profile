@@ -1,12 +1,11 @@
 # vipto-shop-profile
 
-![Shop Profile Screenshot](assets/screenshot.png)
+![Shop Profile Screenshot](assets/Screenshot.png)
 
-A single Flutter screen — **Shop Profile Screen** — built for the Vipto
-Software Engineering Intern assessment.
+A single Flutter screen - **Shop Profile Screen**
 
 This is a UI-only implementation. There is no backend, API, Firebase,
-authentication, or database — all data is hard-coded dummy data inside
+authentication, or database - all data is hard-coded dummy data inside
 `lib/shop_profile_screen.dart` (see the `ShopProfile` model and
 `dummyShop` constant).
 
@@ -52,10 +51,3 @@ lib/
    ```bash
    flutter run
    ```
-
-## Notes
-
-- Built with Flutter's Material 3 design system.
-- All strings and data are dummy placeholders as instructed by the
-  assessment — swap the `dummyShop` constant for real data once a
-  backend is available.
